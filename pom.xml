@@ -14,6 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <name>Jenkins Escaped Markup Plugin</name>
+    <url>http://wiki.jenkins-ci.org/display/JENKINS/Escaped+Markup+Plugin</url>
 
     <developers>
         <developer>
@@ -28,8 +29,9 @@
     </properties>
   
     <scm>
-        <connection>scm:git:https://github.com/ssogabe/escaped-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:ssogabe/escaped-plugin.git</developerConnection>
+        <connection>scm:git:https://github.com/jenkinsci/escaped-markup-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:ssogabe/escaped-markup-plugin.git</developerConnection>
+        <url>http://github.com/jenkinsci/escaped-markup-plugin</url>
     </scm>
 
     <repositories>
