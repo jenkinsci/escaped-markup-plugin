@@ -30,7 +30,7 @@
   
     <scm>
         <connection>scm:git:https://github.com/jenkinsci/escaped-markup-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:ssogabe/escaped-markup-plugin.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:jenkinsci/escaped-markup-plugin.git</developerConnection>
         <url>http://github.com/jenkinsci/escaped-markup-plugin</url>
     </scm>
 
