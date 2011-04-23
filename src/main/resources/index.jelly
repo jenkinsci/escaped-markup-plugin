@@ -1,3 +1,3 @@
 <div>
-  This plugin escapes the description of project description , user description, view description, and build description to prevent from XSS.
+  This plugin escapes the description of project , user, view , and build  to prevent from XSS.
 </div>
